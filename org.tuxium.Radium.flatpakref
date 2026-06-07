@@ -1,0 +1,7 @@
+[Flatpak Ref]
+Title=Tuxium 2021
+Name=org.tuxium.Radium
+RuntimeRepo=https://flathub.org
+Url=https://github.io
+Branch=master
+IsRuntime=false
